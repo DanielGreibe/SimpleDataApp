@@ -16,7 +16,7 @@ namespace SimpleDataApp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FillOrCancel());
+            Application.Run(new Navigation());
         }
     }
 }
